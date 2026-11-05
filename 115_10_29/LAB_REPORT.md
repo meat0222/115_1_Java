@@ -245,8 +245,8 @@ battery=60.0
 - commit、push，核對 GitHub main 最新 commit 與來源檔。只 commit 或 Changes 空白不代表已推送。
 - 在另一位置 clone，同一專案重新編譯並跑 MissionLog；課堂不足可課後完成。
 
-GitHub repo/作業目錄：待填；最終 commit：待填。
-本人新副本 JDK/編譯/預設輸出：待填，未做標示待補。
+GitHub repo/作業目錄：https://github.com/meat0222/115_1_Java ／ 115_10_29/java-04；最終 commit：b55df38（Week04 MissionLog 任務日誌與實作報告）。
+本人新副本 JDK/編譯/預設輸出：另一位置 clone 後，JDK 1.8.0_302；mkdir out 後 javac 編譯成功；MissionLog 預設 {1,1,2} 輸出 final energy=6, samples=5, actionCount=3 -> SUCCESS（clone 驗證由 AI 協助執行）。
 推送若失敗先請教師協助，仍無法推送時保存完整 repo 至不會還原的位置，確認可讀並後續補推。
 
 ## 課後選做
