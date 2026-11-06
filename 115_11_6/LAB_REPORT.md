@@ -196,5 +196,5 @@ battery=100.0
 
 - main 的 script 已恢復 {1,1,2}，未留臨時檢查；重新編譯執行為 6/5/3 SUCCESS、battery=30.0。
 - 錯誤副本留在 repo 外；out 不提交。
-- GitHub repo／作業目錄：https://github.com/meat0222/115_1_Java ／ 115_11_6；最終 commit：【待填】
-- 本人新副本 JDK／編譯／預設輸出：【待填】
+- GitHub repo／作業目錄：https://github.com/meat0222/115_1_Java ／ 115_11_6；程式 commit：9c6e9fc（Week05 MissionStep 類別化任務日誌與實作報告），已推送，GitHub main 與本機一致。
+- 新副本 JDK／編譯／預設輸出：另一位置 clone 後，JDK 24.0.1；含 examples 六檔與 starter 兩檔，`javac -encoding UTF-8 -d out *.java` 編譯成功；MissionLog 預設 {1,1,2} 回放能源 14、8、6，final energy=6, samples=5, actionCount=3 -> SUCCESS，battery=30.0（clone 驗證由 AI 協助執行）。
